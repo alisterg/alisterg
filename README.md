@@ -7,8 +7,8 @@
 
 ## About Me
 
-- ☁️ I work full-time with AWS, .NET, Vue.js, and others
-- 🔥 I use Firebase, React, Vue.js, and AWS for personal projects
+- ☁️ I work full-time with AWS, .NET, Vue.js and others
+- 🔥 I use Firebase, React, Vue.js and AWS for personal projects
 - ❤️ Agile & TDD
 - 🖥️ CS degree, other qualifications & continuously learning
   - Currently training for AWS certification
