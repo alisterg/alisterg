@@ -1,18 +1,18 @@
 <div style="display:flex; align-items: center;">
     <img alt="github" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-    <div style="margin-left:20px">Hey 👋 &nbsp; I'm Alister, a full-stack engineer in Brisbane, Australia</div>
+    <div style="margin-left:20px">Hey 👋 I'm Alister, a full-stack engineer in Brisbane, Australia</div>
 </div>
 
 <hr />
 
 ## About Me
 
-- ☁️ &nbsp; I work full-time with AWS, .NET, Vue.js, and others
-- 🔥 &nbsp; I use Firebase, React, Vue.js, and AWS for personal projects
-- ❤️ &nbsp; Agile & TDD
-- 🖥️ &nbsp; CS degree, other qualifications & continuously learning
+- ☁️ I work full-time with AWS, .NET, Vue.js, and others
+- 🔥 I use Firebase, React, Vue.js, and AWS for personal projects
+- ❤️ Agile & TDD
+- 🖥️ CS degree, other qualifications & continuously learning
   - Currently training for AWS certification
-- 🍛 &nbsp; In my free time I like to cook and play guitar 🎸
+- 🍛 In my free time I like to cook and play guitar 🎸
 
 <hr/>
 
