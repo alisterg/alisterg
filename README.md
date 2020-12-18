@@ -16,7 +16,7 @@
 
 <hr/>
 
-## Personal Projects
+<!-- ## Personal Projects
 
 ### World of Linux
 
@@ -42,4 +42,4 @@ List app with recurring tasks, timer, stats and more. Made with Ionic, React and
 A simple "endless runner" style game made with Unity and C#
 ([Android - Google Play](https://play.google.com/store/apps/details?id=com.AlHolland.Catrun))
 
-[![](https://img.shields.io/badge/Android-Play%20Store-blue?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.AlHolland.Catrun)
+[![](https://img.shields.io/badge/Android-Play%20Store-blue?style=for-the-badge&logo=android)](https://play.google.com/store/apps/details?id=com.AlHolland.Catrun) -->
