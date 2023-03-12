@@ -1,5 +1,4 @@
 <div style="display:flex; align-items: center;">
-    <img alt="github" height="50px" width="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
     <div style="margin-left:20px">Hey 👋 I'm Alister, a full-stack engineer</div>
 </div>
 
