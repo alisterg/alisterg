@@ -5,7 +5,7 @@
 
 Currently working with AWS, dotnet, Vue and others.
 
-My blog: [alister.codes](https://alister.codes)
+<a href="https://alister.codes" target="_blank">Checkout my blog!</a>
 
 <hr/>
 
