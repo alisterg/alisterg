@@ -3,13 +3,9 @@
     <div style="margin-left:20px">Hey 👋 I'm Alister, a full-stack engineer</div>
 </div>
 
-<hr />
+Currently working with AWS, dotnet, Vue and others.
 
-## About Me
-
-Currently working full-time with AWS, .NET, Vue.js and others.
-
-My blog: [](https://alister.codes)
+My blog: [alister.codes](https://alister.codes)
 
 <hr/>
 
