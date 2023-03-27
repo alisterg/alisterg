@@ -1,5 +1,4 @@
-Hey 👋 I'm Alister, a full-stack engineer.
-
-I currently work with AWS, dotnet, Vue and others.
-
-[See my blog for more](https://alister.codes)
+ℹ️ [about](https://alister.codes)  
+📖 [blog](https://alister.codes/posts)  
+📒 [wiki](https://alister.codes/wiki)  
+🤝 [linkedin](https://www.linkedin.com/in/alister-holland-ba0213140/)
