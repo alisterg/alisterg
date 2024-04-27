@@ -1,6 +1,6 @@
 ```diff
 @@ Hi, I'm Alister @@
-
-+ ℹ️ Professional dev focused on web and cloud
-+ 📖 More about me & blog: https://alister.codes
 ```
+
+🖥️ Professional dev focused on web and cloud  
+➡️ About me & blog: https://alister.codes
